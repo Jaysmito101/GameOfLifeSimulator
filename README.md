@@ -1,3 +1,3 @@
 # GameOfLifeSimulator
 
-Demo : 
+Demo : https://jaysmito101.github.io/GameOfLifeSimulator/
